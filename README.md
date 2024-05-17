@@ -20,3 +20,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ``` shell
 npx hardhat compile
 ```
+
+Happy Hacking <3
