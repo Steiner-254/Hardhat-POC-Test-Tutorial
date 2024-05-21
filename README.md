@@ -21,6 +21,14 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 npx hardhat compile
 ```
 
+# To Deploy The Contract To A Testnet
+
+- Run the following command:
+
+```
+npx hardhat ignition deploy ./ignition/modules/Token.js --network hardhat
+```
+
 # Reference
 
 https://hardhat.org/tutorial
